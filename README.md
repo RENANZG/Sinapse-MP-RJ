@@ -1,3 +1,6 @@
+### Concept phase for a machine learning system that prevents police "fishing expedition" techniques. Inspired by Al Capone's income tax debt.
+
+
 [![Build Status](https://travis-ci.org/MinisterioPublicoRJ/sinapse.svg?branch=master)](https://travis-ci.org/MinisterioPublicoRJ/sinapse)
 [![Coverage Status](https://codecov.io/gh/MinisterioPublicoRJ/sinapse/branch/master/graph/badge.svg)](https://codecov.io/gh/MinisterioPublicoRJ/sinapse)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/664b2e55beb940bea57b853d61fab391)](https://www.codacy.com/app/SamambaMan/sinapse?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MinisterioPublicoRJ/sinapse&amp;utm_campaign=Badge_Grade)
